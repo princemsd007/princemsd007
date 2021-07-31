@@ -2,7 +2,7 @@
 ![Design and Development ](https://scontent.fbom4-2.fna.fbcdn.net/v/t1.6435-9/223167114_972697253567085_6826106202316249509_n.png?_nc_cat=103&ccb=1-3&_nc_sid=e3f864&_nc_ohc=QYCr4cD_HPYAX_R4P2G&_nc_ht=scontent.fbom4-2.fna&oh=3701ce4e4d44c0174590bf2ca7eb4a46&oe=6128C71A)
 
 <h1 align="center">Hi 👋, I'm Prince Singh Yadav</h1>
-<h3 align="center">Hello everyone! I am Prince. I am a tech enthusiast, exploring a lot in the field of technology. I am currently struggling with my career ambitions. Currently studying about developing stacks. And I write about making your life as a developer easier.</h3>
+<h3 align="center">Hola!! I am a tech enthusiast, exploring a lot in the field of technology. I am currently struggling with my career ambitions. Currently studying about developing stacks. And I write about making your life as a developer easier.</h3>
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
