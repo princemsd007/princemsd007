@@ -1,8 +1,8 @@
 
-![Design and Development ](https://scontent.fbom4-2.fna.fbcdn.net/v/t1.6435-9/223167114_972697253567085_6826106202316249509_n.png?_nc_cat=103&ccb=1-3&_nc_sid=e3f864&_nc_ohc=QYCr4cD_HPYAX_R4P2G&_nc_ht=scontent.fbom4-2.fna&oh=3701ce4e4d44c0174590bf2ca7eb4a46&oe=6128C71A)
+![Design and Development ](https://media-exp1.licdn.com/dms/image/C5616AQGuvAF0McA9Xg/profile-displaybackgroundimage-shrink_350_1400/0/1626468035408?e=1632960000&v=beta&t=ZtIfjahGmRZ7h5b1LsCEFDoo1U4Z3zF944JsrYShKYk)
 
 <h1 align="center">Hi 👋, I'm Prince Singh Yadav</h1>
-<h3 align="center">Hello everyone! I am Prince. I am a tech enthusiast, exploring a lot in the field of technology. I am currently struggling with my career ambitions. Currently studying about developing stacks. And I write about making your life as a developer easier.</h3>
+<h3 align="center">Hola!, Am a tech enthusiast, exploring a lot in the field of technology. I am currently struggling with my career ambitions. Currently studying about developing apps. And I code for development and write about making your life as a developer easier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princemsd007&label=Profile%20views&color=0e75b6&style=flat" alt="princemsd007" /> </p>
 
@@ -46,3 +46,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/princeyadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="princeyadav" /></a></p><br><br>
+
+
