@@ -2,6 +2,7 @@
 ![Design and Development ](https://media-exp1.licdn.com/dms/image/C5616AQGuvAF0McA9Xg/profile-displaybackgroundimage-shrink_350_1400/0/1626468035408?e=1632960000&v=beta&t=ZtIfjahGmRZ7h5b1LsCEFDoo1U4Z3zF944JsrYShKYk)
 
 <h1 align="center">Hi 👋, I'm Prince Singh Yadav</h1>
+<h2  align="center"> princemsd007.github.io </h2>
 <h3 align="center">Hola!, Am a tech enthusiast, exploring a lot in the field of technology. I am currently struggling with my career ambitions. Currently studying about developing apps. And I code for development and write about making your life as a developer easier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princemsd007&label=Profile%20views&color=0e75b6&style=flat" alt="princemsd007" /> </p>
