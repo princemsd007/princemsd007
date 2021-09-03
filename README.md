@@ -1,10 +1,6 @@
 
 ![Design and Development ](https://media-exp1.licdn.com/dms/image/C5616AQGuvAF0McA9Xg/profile-displaybackgroundimage-shrink_350_1400/0/1626468035408?e=1632960000&v=beta&t=ZtIfjahGmRZ7h5b1LsCEFDoo1U4Z3zF944JsrYShKYk)
 
-<div align="center">
-<img width="100%" height = "250px" src="https://ibb.co/KhZwsb9" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -69,4 +65,5 @@
 
 
 
+ 
 <br>
