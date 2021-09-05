@@ -46,6 +46,11 @@
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princemsd007&show_icons=true&count_private=true&theme=calm" />
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=princemsd007&theme=calm" />
+ 
+ 
+ <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Status</b></i></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princemsd007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
   
   
  
