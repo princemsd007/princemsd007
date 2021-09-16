@@ -1,7 +1,7 @@
 
 ![Design and Development ](https://media-exp1.licdn.com/dms/image/C5616AQGuvAF0McA9Xg/profile-displaybackgroundimage-shrink_350_1400/0/1626468035408?e=1632960000&v=beta&t=ZtIfjahGmRZ7h5b1LsCEFDoo1U4Z3zF944JsrYShKYk)
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=princemsd007.princemsd007)
@@ -47,14 +47,8 @@
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=princemsd007&theme=calm" />
  
- 
- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Status</b></i></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princemsd007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
   
- 
   
- 
 <h2> Contribution Graph </h2> 
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=princemsd007)](https://github.com/princemsd007/github-readme-activity-graph)
