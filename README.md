@@ -1,5 +1,5 @@
 
-![Design and Development ](https://media-exp1.licdn.com/dms/image/C5616AQGuvAF0McA9Xg/profile-displaybackgroundimage-shrink_350_1400/0/1626468035408?e=1632960000&v=beta&t=ZtIfjahGmRZ7h5b1LsCEFDoo1U4Z3zF944JsrYShKYk)
+![Design and Development ](https://github.com/princemsd007/princemsd007.github.io/blob/main/files/1080x360.jfif)
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
