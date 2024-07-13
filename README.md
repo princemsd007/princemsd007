@@ -1,10 +1,7 @@
 
-![Design and Development ](https://github.com/princemsd007/princemsd007.github.io/blob/main/files/1080x360.jfif)
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=princemsd007.princemsd007)
 
 </p>
 <div size='20px'> Hi! My name is Prince Singh Yadav. Thank You for taking the time to view my GitHub Profile :smile: 
